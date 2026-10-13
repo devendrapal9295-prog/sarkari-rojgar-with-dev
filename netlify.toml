@@ -1,0 +1,6 @@
+[build]
+  publish = "."
+  functions = "netlify/functions"
+
+[functions."sync-jobs"]
+  schedule = "0 */6 * * *"

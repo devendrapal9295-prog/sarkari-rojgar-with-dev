@@ -1,0 +1,9 @@
+{
+  "name": "sarkari-rojgar-with-dev",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Sarkari Rojgar With Dev static site with scheduled official-source update discovery",
+  "type": "module",
+  "scripts": { "build": "echo Static site ready" },
+  "dependencies": { "@netlify/blobs": "^8.2.0" }
+}
